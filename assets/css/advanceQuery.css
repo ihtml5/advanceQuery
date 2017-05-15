@@ -1,0 +1,81 @@
+.npc-search-select {
+  min-width: 100px;
+  height: 25px;
+  outline: none;
+  border-radius: 3px;
+  border: 1px solid #ddd;
+}
+.npc-advance-btns {
+  margin-top: 10px;
+}
+.npc-advance-btns button {
+  margin-left: 30px;
+}
+.npc-advance-line input {
+  width: 200px;
+  margin-left: 8px;
+  text-indent: 0.5em;
+  border: 1px solid #7e9eb7;
+  outline:none;
+}
+.npc-advance-line select {
+  margin-left: 8px;
+
+
+}
+.npc-advance-form {
+  /*padding-top: 10px;*/
+}
+.npc-advance-line {
+  margin-top: 8px;
+}
+.npc-advance-space {
+  display: inline-block;
+  width: 115px;
+  height: auto;
+}
+.npc-tab-btn {
+  margin-right: 3px;
+  width: 150px;
+  height: 30px;
+  border-radius: 5px;
+  border: none;
+  outline: none;
+  background-color: #d9534f;
+  color: #fff;
+}
+.npc-ul {
+  list-style-type: none;
+}
+.npc-queryCateory {
+  height: 33px;
+  background-color: #c7110e;
+  overflow: hidden;
+}
+li.npc-nocateoryActive {
+  color: #fefeff;
+  background-color: #c70f0f;
+}
+.npc-queryCateory li {
+  margin-right: 10px;
+  float: left;
+  padding: 0 10px;
+  font-size: 14px;
+  height: 33px;
+  line-height: 33px;
+  color: #fff;
+  text-align: center;
+  vertical-align: middle;
+}
+.npc-queryCateory li:hover {
+  color: #c70f0f;
+  background-color: #fefeff;
+  border-bottom: 1px solid #c70f0f;
+  font-weight: bold;
+  cursor: pointer;
+}
+li.npc-cateoryActive {
+  color: #c70f0f;
+  background-color: #fefeff;
+  border: 1px solid #c70f0f;
+}
